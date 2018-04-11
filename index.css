@@ -1,0 +1,80 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  //background: radial-gradient(red 20%, yellow 30%, blue 10%, darkblue 40%);
+  background-color: rgb(0,0,50);
+  margin: 0px;
+  width: inherit;
+  height: inherit;
+  overflow: hidden;
+}
+#sky{
+  z-index: 0;
+  position: absolute;
+}
+#perspective{
+  z-index: 10;
+  height: 100%;
+  width: 100%;
+  perspective: 10000px;
+  perspective-origin: center;
+  position: relative;
+}
+#stand-point{
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  transform-style: preserve-3d;
+}
+#ground-plane{
+  height: 10000px;
+  width: 10000px;
+  line-height: 0px;
+  position: absolute;
+  transform-style: preserve-3d;
+  text-align: center;
+}
+#grass{
+  height: inherit;
+  width: inherit;
+}
+.world-object{
+  transform-style: preserve-3d;
+  position:absolute;
+  background-color: inherit;
+}
+.cube-side{
+  border: 1px black solid;
+  margin: 0px;
+}
+#crosshair-cont{
+  width: 40px;
+  height: 40px;
+  z-index: 100;
+  position: absolute;
+}
+#crosshair-vert{
+  height: 40px;
+  width: 5px;
+  background-color: white;
+  margin: auto;
+  left: 17px;
+  position: absolute;
+}
+#crosshair-hori{
+  height: 5px;
+  width: 40px;
+  background-color: white;
+  top: 17px;
+  position: absolute;
+}
+#sun{
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-color: yellow;
+  position: absolute;
+  transform: translateX(-500px) translateY(-500px) translateZ(1000px) rotateX(90deg) translateX(5250px) translateZ(15000px);
+}

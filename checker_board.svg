@@ -1,0 +1,122 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height='100' width='100' xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+  <style>
+  .box1{
+    fill:green;
+  }
+  .box2{
+  fill:lightgreen;
+  }
+  </style>
+  <rect width='10' height='10' x='0' y='0' class='box1'/>
+  <rect width='10' height='10' x='0' y='10' class='box2'/>
+  <rect width='10' height='10' x='0' y='20' class='box1'/>
+  <rect width='10' height='10' x='0' y='30' class='box2'/>
+  <rect width='10' height='10' x='0' y='40' class='box1'/>
+  <rect width='10' height='10' x='0' y='50' class='box2'/>
+  <rect width='10' height='10' x='0' y='60' class='box1'/>
+  <rect width='10' height='10' x='0' y='70' class='box2'/>
+  <rect width='10' height='10' x='0' y='80' class='box1'/>
+  <rect width='10' height='10' x='0' y='90' class='box2'/>
+
+  <rect width='10' height='10' x='10' y='0' class='box2'/>
+  <rect width='10' height='10' x='10' y='10' class='box1'/>
+  <rect width='10' height='10' x='10' y='20' class='box2'/>
+  <rect width='10' height='10' x='10' y='30' class='box1'/>
+  <rect width='10' height='10' x='10' y='40' class='box2'/>
+  <rect width='10' height='10' x='10' y='50' class='box1'/>
+  <rect width='10' height='10' x='10' y='60' class='box2'/>
+  <rect width='10' height='10' x='10' y='70' class='box1'/>
+  <rect width='10' height='10' x='10' y='80' class='box2'/>
+  <rect width='10' height='10' x='10' y='90' class='box1'/>
+
+  <rect width='10' height='10' x='20' y='0' class='box1'/>
+  <rect width='10' height='10' x='20' y='10' class='box2'/>
+  <rect width='10' height='10' x='20' y='20' class='box1'/>
+  <rect width='10' height='10' x='20' y='30' class='box2'/>
+  <rect width='10' height='10' x='20' y='40' class='box1'/>
+  <rect width='10' height='10' x='20' y='50' class='box2'/>
+  <rect width='10' height='10' x='20' y='60' class='box1'/>
+  <rect width='10' height='10' x='20' y='70' class='box2'/>
+  <rect width='10' height='10' x='20' y='80' class='box1'/>
+  <rect width='10' height='10' x='20' y='90' class='box2'/>
+
+  <rect width='10' height='10' x='30' y='0' class='box2'/>
+  <rect width='10' height='10' x='30' y='10' class='box1'/>
+  <rect width='10' height='10' x='30' y='20' class='box2'/>
+  <rect width='10' height='10' x='30' y='30' class='box1'/>
+  <rect width='10' height='10' x='30' y='40' class='box2'/>
+  <rect width='10' height='10' x='30' y='50' class='box1'/>
+  <rect width='10' height='10' x='30' y='60' class='box2'/>
+  <rect width='10' height='10' x='30' y='70' class='box1'/>
+  <rect width='10' height='10' x='30' y='80' class='box2'/>
+  <rect width='10' height='10' x='30' y='90' class='box1'/>
+
+  <rect width='10' height='10' x='40' y='0' class='box1'/>
+  <rect width='10' height='10' x='40' y='10' class='box2'/>
+  <rect width='10' height='10' x='40' y='20' class='box1'/>
+  <rect width='10' height='10' x='40' y='30' class='box2'/>
+  <rect width='10' height='10' x='40' y='40' class='box1'/>
+  <rect width='10' height='10' x='40' y='50' class='box2'/>
+  <rect width='10' height='10' x='40' y='60' class='box1'/>
+  <rect width='10' height='10' x='40' y='70' class='box2'/>
+  <rect width='10' height='10' x='40' y='80' class='box1'/>
+  <rect width='10' height='10' x='40' y='90' class='box2'/>
+
+  <rect width='10' height='10' x='50' y='0' class='box2'/>
+  <rect width='10' height='10' x='50' y='10' class='box1'/>
+  <rect width='10' height='10' x='50' y='20' class='box2'/>
+  <rect width='10' height='10' x='50' y='30' class='box1'/>
+  <rect width='10' height='10' x='50' y='40' class='box2'/>
+  <rect width='10' height='10' x='50' y='50' class='box1'/>
+  <rect width='10' height='10' x='50' y='60' class='box2'/>
+  <rect width='10' height='10' x='50' y='70' class='box1'/>
+  <rect width='10' height='10' x='50' y='80' class='box2'/>
+  <rect width='10' height='10' x='50' y='90' class='box1'/>
+
+  <rect width='10' height='10' x='60' y='0' class='box1'/>
+  <rect width='10' height='10' x='60' y='10' class='box2'/>
+  <rect width='10' height='10' x='60' y='20' class='box1'/>
+  <rect width='10' height='10' x='60' y='30' class='box2'/>
+  <rect width='10' height='10' x='60' y='40' class='box1'/>
+  <rect width='10' height='10' x='60' y='50' class='box2'/>
+  <rect width='10' height='10' x='60' y='60' class='box1'/>
+  <rect width='10' height='10' x='60' y='70' class='box2'/>
+  <rect width='10' height='10' x='60' y='80' class='box1'/>
+  <rect width='10' height='10' x='60' y='90' class='box2'/>
+
+  <rect width='10' height='10' x='70' y='0' class='box2'/>
+  <rect width='10' height='10' x='70' y='10' class='box1'/>
+  <rect width='10' height='10' x='70' y='20' class='box2'/>
+  <rect width='10' height='10' x='70' y='30' class='box1'/>
+  <rect width='10' height='10' x='70' y='40' class='box2'/>
+  <rect width='10' height='10' x='70' y='50' class='box1'/>
+  <rect width='10' height='10' x='70' y='60' class='box2'/>
+  <rect width='10' height='10' x='70' y='70' class='box1'/>
+  <rect width='10' height='10' x='70' y='80' class='box2'/>
+  <rect width='10' height='10' x='70' y='90' class='box1'/>
+
+  <rect width='10' height='10' x='80' y='0' class='box1'/>
+  <rect width='10' height='10' x='80' y='10' class='box2'/>
+  <rect width='10' height='10' x='80' y='20' class='box1'/>
+  <rect width='10' height='10' x='80' y='30' class='box2'/>
+  <rect width='10' height='10' x='80' y='40' class='box1'/>
+  <rect width='10' height='10' x='80' y='50' class='box2'/>
+  <rect width='10' height='10' x='80' y='60' class='box1'/>
+  <rect width='10' height='10' x='80' y='70' class='box2'/>
+  <rect width='10' height='10' x='80' y='80' class='box1'/>
+  <rect width='10' height='10' x='80' y='90' class='box2'/>
+
+  <rect width='10' height='10' x='90' y='0' class='box2'/>
+  <rect width='10' height='10' x='90' y='10' class='box1'/>
+  <rect width='10' height='10' x='90' y='20' class='box2'/>
+  <rect width='10' height='10' x='90' y='30' class='box1'/>
+  <rect width='10' height='10' x='90' y='40' class='box2'/>
+  <rect width='10' height='10' x='90' y='50' class='box1'/>
+  <rect width='10' height='10' x='90' y='60' class='box2'/>
+  <rect width='10' height='10' x='90' y='70' class='box1'/>
+  <rect width='10' height='10' x='90' y='80' class='box2'/>
+  <rect width='10' height='10' x='90' y='90' class='box1'/>
+</svg>
